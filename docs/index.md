@@ -30,8 +30,10 @@ Download da Windows
 
 # scarica XAMPP
 
-Scarica il progetto dal seguente link:
-https://github.com/Ferrar65/CasaAutomobilistica/archive/refs/heads/MAIN.zi
+- Scarica il progetto dal seguente link:
+
+
+https://github.com/Ferrar65/CasaAutomobilistica/archive/refs/heads/MAIN.zip
 
 
 
