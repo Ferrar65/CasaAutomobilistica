@@ -1,0 +1,35 @@
+create table allievo(
+  CF VARCHAR(10) NOT NULL,
+  COGNOME VARCHAR(15) NOT NULL,
+  NOME VARCHAR(15) NOT NULL,
+  dataNascita DATE NULL,
+  CITTA VARCHAR(10) NULL,
+  TEL VARCHAR(9) NOT NULL,
+  PRIMARY KEY (CF)
+);
+
+INSERT INTO allievo (CF, COGNOME, NOME, TEL)
+VALUES ('0000ABC','PETRISOR','ANDREI','092002902')
+CREATE TABLE `university`.`corso` (
+  `CODICE` INT NOT NULL AUTO_INCREMENT ,
+  `disciplina` VARCHAR(15) NOT NULL ,
+  `Livello` ENUM('low','medium','high','') NULL ,
+  `giorno` ENUM('Lun','Mar','Mer','Gio','Ven','Sab','Dom') NOT NULL ,
+  `maestro` VARCHAR(15) NULL , `oraInizio` TIME NOT NULL ,
+  `sala` VARCHAR(10) NULL , PRIMARY KEY (`CODICE`)) ENGINE = InnoDB;
+
+create table iscrizione (
+  dataI DATE NOT NULL,
+  pagamento BOOLEAN NULL,
+  codiceCorso INT NOT NULL,
+  cfAllievo VARCHAR(10) NOT NULL,
+  PRIMARY KEY (codiceCorso, cfAllievo),
+  FOREIGN KEY (codiceCorso) REFERENCES corso(CODICE),
+  FOREIGN KEY (cfAllievo) REFERENCES allievo(CF)
+)
+INSERT INTO `corso` (`CODICE`, `disciplina`, `Livello`, `giorno`, `maestro`, `oraInizio`, `sala`)
+VALUES (NULL, 'Italiano', 'medium', 'Mar', NULL, '9:32:08', NULL),
+(NULL, 'Storia', 'high', 'Gio', NULL, '12:12:09', NULL);
+
+INSERT INTO iscrizione(dataI, pagamento, codiceCorso, cfAllievo)
+VALUES( '2020-12-01', NULL, 1, '0000ABC');
