@@ -34,9 +34,6 @@ Scarica il progetto dal seguente link:
 https://github.com/Ferrar65/CasaAutomobilistica/archive/refs/heads/MAIN.zip
 
 
-
-
-
 ```
 
 [Link](url) and ![Image](src)
