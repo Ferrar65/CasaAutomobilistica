@@ -21,16 +21,11 @@ Download da linux
 
 - >$ sudo apt-get install git
 - >$ sudo mkdir CasaAutomobilistica
-- >$ git clone https://github.com/Ferrar65/CasaAutomobilistica.git 
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- >$ git clone https://github.com/Ferrar65/CasaAutomobilistica.git
 
 [Link](url) and ![Image](src)
 ```
-
+[Link](url) and ![Image](src)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
