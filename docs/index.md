@@ -3,8 +3,7 @@
 Compito realizato con:
 
 
-[RADU ANTO](https://github.com/zodiacapricorn)
-RADU ANTONIO VALENTIN
+[RADU ANTONIO VALENTIN](https://github.com/zodiacapricorn)
 
 ### Markdown
 
