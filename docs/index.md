@@ -21,7 +21,7 @@ Download da linux
 
 - >$ sudo apt-get install git
 - >$ sudo mkdir CasaAutomobilistica
-- >$ git clone https://github.com/Ferrar65/CasaAutomobilistica.git
+- >$ git clone https://github.com/Ferrar65/CasaAutomobilistica.git 
 
 1. Numbered
 2. List
