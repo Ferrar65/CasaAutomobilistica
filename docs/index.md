@@ -12,7 +12,7 @@ Compito realizato con:
 
 ### Specifiche Tecniche
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il progetto è stato realizato mediante l'ausilio di PHP, PHPMYADMIN, HTML
 
 ```markdown
 Syntax highlighted code block
