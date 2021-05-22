@@ -12,7 +12,7 @@ CREATE TABLE CASA_AUTOMOBILISTICA (
 CREATE TABLE MODELLO_VEICOLO (
   nomeModello varchar(30) NOT NULL,
   annoInizioProduz year(4) NOT NULL,
-  annoFineProduz year(4) NOT NULL,
+  annoFineProduz year(4) NULL,
   descrizione varchar(500) NOT NULL,
   casaAutomobilistica VARCHAR(30) NOT NULL,
   PRIMARY KEY (nomeModello),
