@@ -17,7 +17,7 @@ Il progetto è stato realizato mediante l'ausilio di PHP, PHPMYADMIN, HTML
 ```markdown
 Download da linux
 
-# scarica Ngnix, MYSQL
+# scarica Ngnix, MYSQL, GIT
 
 - Bulleted
 - List
