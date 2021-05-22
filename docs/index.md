@@ -7,6 +7,7 @@ Compito realizato con:
 [PETRISOR ANDREI](https://github.com/petristolto)
 [RADU ANTONIO VALENTIN](https://github.com/zodiacapricorn)
 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
