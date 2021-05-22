@@ -26,7 +26,7 @@ Download da linux
 [Link](url) and ![Image](src)
 ```
 [Link](url) and ![Image](src)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Per maggiori dettagli[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### PHP
 
