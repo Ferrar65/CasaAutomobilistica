@@ -1,8 +1,10 @@
 ## COMPITO INFORMATICA 26/05/2021
 
-You can use the [editor on GitHub](https://github.com/Ferrar65/CasaAutomobilistica/edit/MAIN/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Compito realizato con:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[RADU ANTO](https://github.com/zodiacapricorn)
+RADU ANTONIO VALENTIN
 
 ### Markdown
 
