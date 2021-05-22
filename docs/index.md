@@ -3,6 +3,8 @@
 Compito realizato con:
 
 
+[EL METKOUL KARIM](https://github.com/Ferrar65)
+[PETRISOR ANDREI](https://github.com/petristolto)
 [RADU ANTONIO VALENTIN](https://github.com/zodiacapricorn)
 
 ### Markdown
