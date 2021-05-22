@@ -23,7 +23,6 @@ Download da linux
 - >$ sudo mkdir CasaAutomobilistica
 - >$ git clone https://github.com/Ferrar65/CasaAutomobilistica.git
 
-[Link](url) and ![Image](src)
 ```
 [Link](url) and ![Image](src)
 Per maggiori dettagli[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
