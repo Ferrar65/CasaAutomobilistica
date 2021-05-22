@@ -15,11 +15,9 @@ Compito realizato con:
 Il progetto è stato realizato mediante l'ausilio di PHP, PHPMYADMIN, HTML
 
 ```markdown
-Syntax highlighted code block
+Download da linux
 
-# Header 1
-## Header 2
-### Header 3
+# scarica Ngnix, MYSQL
 
 - Bulleted
 - List
