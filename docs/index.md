@@ -24,6 +24,11 @@ Download da linux
 - >$ git clone https://github.com/Ferrar65/CasaAutomobilistica.git
 
 ```
+
+```markdown
+
+```
+
 [Link](url) and ![Image](src)
 Per maggiori dettagli[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
