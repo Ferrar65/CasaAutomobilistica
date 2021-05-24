@@ -1,0 +1,56 @@
+body {
+    padding-top: 15px;
+    background-color: floralwhite;
+    -webkit-user-select: none; /* Chrome all / Safari all */
+    -moz-user-select: none; /* Firefox all */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none; /* Likely future */
+}
+
+.jumbotron {
+    position: relative;
+    height: 500px;
+    transition: 1s;
+}
+
+#imgHangman {
+    width: 75px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    right: 50px;
+}
+
+.imgWin {
+    filter: invert(1);
+}
+
+.copyleft {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+
+.builtWord {
+    transition: 1s;
+}
+
+@media (max-width: 576px) {
+    .builtWord {
+        margin-top: 2em;
+    }
+
+    .jumbotron {
+        height: calc(100vh - 30px);
+    }
+}
+
+@media (max-width: 768px) {
+    .builtWord {
+        margin-top: 3em;
+    }
+
+    .jumbotron {
+        height: calc(100vh - 30px);
+    }
+}
